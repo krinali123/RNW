@@ -1,0 +1,8 @@
+.light{background-color: aliceblue !important;
+    color:black !important;
+  }
+  .dark{
+    background-color: rgb(6, 7, 7)  !important;
+    color:rgb(219, 204, 204)  !important;
+  }
+  

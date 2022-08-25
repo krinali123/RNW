@@ -1,0 +1,76 @@
+{
+  "Medicine": [
+    {
+      "id": 3,
+      "name": "json-server",
+      "price": "100",
+      "exapiry": "23-3-22"
+    },
+    {
+      "id": 489,
+      "name": "kinu",
+      "price": "5345",
+      "quantity": "4534",
+      "exapiry": "2022"
+    },
+    {
+      "id": 135,
+      "name": "kinu",
+      "price": "5345",
+      "quantity": "4534",
+      "exapiry": "2022"
+    },
+    {
+      "id": 393,
+      "name": "demo3",
+      "price": "5345",
+      "quantity": "4534",
+      "exapiry": "2030"
+    },
+    {
+      "id": 235,
+      "name": "kinu",
+      "price": "5345",
+      "quantity": "4534",
+      "exapiry": "2022"
+    },
+    {
+      "id": 476,
+      "name": "kinu",
+      "price": "5345",
+      "quantity": "4534",
+      "exapiry": "2022"
+    },
+    {
+      "id": 229,
+      "name": "gf",
+      "price": "fg",
+      "quantity": "1",
+      "exapiry": "1"
+    },
+    {
+      "id": 915,
+      "name": "jiguladumor",
+      "price": "tyht",
+      "quantity": "565",
+      "exapiry": "565"
+    },
+    {
+      "id": 310,
+      "name": "krinali123",
+      "price": "tyht",
+      "quantity": "565",
+      "exapiry": "565"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
